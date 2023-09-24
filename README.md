@@ -1,1 +1,1 @@
-# ipfs profile pictures
+# ipfs profiles pictures
